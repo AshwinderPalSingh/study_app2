@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" fill="none">
+  <rect width="900" height="500" fill="#F8FAFC"/>
+  <rect x="60" y="80" width="780" height="300" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="3"/>
+  <rect x="120" y="140" width="8" height="180" fill="#0F172A"/>
+  <rect x="136" y="140" width="4" height="180" fill="#0F172A"/>
+  <rect x="148" y="140" width="10" height="180" fill="#0F172A"/>
+  <rect x="164" y="140" width="3" height="180" fill="#0F172A"/>
+  <rect x="174" y="140" width="7" height="180" fill="#0F172A"/>
+  <rect x="188" y="140" width="4" height="180" fill="#0F172A"/>
+  <rect x="198" y="140" width="12" height="180" fill="#0F172A"/>
+  <rect x="216" y="140" width="3" height="180" fill="#0F172A"/>
+  <rect x="226" y="140" width="8" height="180" fill="#0F172A"/>
+  <rect x="240" y="140" width="5" height="180" fill="#0F172A"/>
+  <rect x="252" y="140" width="11" height="180" fill="#0F172A"/>
+  <rect x="270" y="140" width="4" height="180" fill="#0F172A"/>
+  <rect x="282" y="140" width="9" height="180" fill="#0F172A"/>
+  <rect x="298" y="140" width="3" height="180" fill="#0F172A"/>
+  <rect x="308" y="140" width="12" height="180" fill="#0F172A"/>
+  <rect x="326" y="140" width="4" height="180" fill="#0F172A"/>
+  <rect x="338" y="140" width="7" height="180" fill="#0F172A"/>
+  <rect x="352" y="140" width="5" height="180" fill="#0F172A"/>
+  <rect x="364" y="140" width="10" height="180" fill="#0F172A"/>
+  <rect x="380" y="140" width="3" height="180" fill="#0F172A"/>
+  <rect x="390" y="140" width="8" height="180" fill="#0F172A"/>
+  <rect x="404" y="140" width="4" height="180" fill="#0F172A"/>
+  <rect x="416" y="140" width="12" height="180" fill="#0F172A"/>
+  <rect x="434" y="140" width="3" height="180" fill="#0F172A"/>
+  <rect x="444" y="140" width="9" height="180" fill="#0F172A"/>
+  <rect x="460" y="140" width="4" height="180" fill="#0F172A"/>
+  <rect x="472" y="140" width="11" height="180" fill="#0F172A"/>
+  <rect x="490" y="140" width="5" height="180" fill="#0F172A"/>
+  <rect x="502" y="140" width="9" height="180" fill="#0F172A"/>
+  <rect x="518" y="140" width="4" height="180" fill="#0F172A"/>
+  <rect x="530" y="140" width="12" height="180" fill="#0F172A"/>
+  <rect x="548" y="140" width="3" height="180" fill="#0F172A"/>
+  <rect x="558" y="140" width="8" height="180" fill="#0F172A"/>
+  <rect x="572" y="140" width="4" height="180" fill="#0F172A"/>
+  <rect x="584" y="140" width="12" height="180" fill="#0F172A"/>
+  <rect x="602" y="140" width="3" height="180" fill="#0F172A"/>
+  <rect x="612" y="140" width="7" height="180" fill="#0F172A"/>
+  <rect x="626" y="140" width="5" height="180" fill="#0F172A"/>
+  <rect x="638" y="140" width="11" height="180" fill="#0F172A"/>
+  <rect x="656" y="140" width="4" height="180" fill="#0F172A"/>
+  <rect x="668" y="140" width="8" height="180" fill="#0F172A"/>
+  <rect x="682" y="140" width="4" height="180" fill="#0F172A"/>
+  <rect x="694" y="140" width="12" height="180" fill="#0F172A"/>
+  <rect x="712" y="140" width="3" height="180" fill="#0F172A"/>
+  <rect x="722" y="140" width="9" height="180" fill="#0F172A"/>
+  <rect x="738" y="140" width="4" height="180" fill="#0F172A"/>
+  <rect x="750" y="140" width="11" height="180" fill="#0F172A"/>
+  <text x="450" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#475569">Calibration Visual: Sample Barcode Pattern</text>
+</svg>

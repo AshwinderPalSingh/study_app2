@@ -1,0 +1,10 @@
+# deps
+node_modules/
+server/node_modules/
+
+# env
+.env
+server/.env
+
+# credentials
+server/credentials/
